@@ -1,3 +1,5 @@
+Si-Yida.FreakyFriday
+
 # FreakyFriday
 In this assignment, you will start by working with another student who will create a description of a website that you will then make. If you consider yourself a beginner to coding, try and find someone who has some experience to pair up with, and vice versa. There are four steps to this assignment
 Step 1: Write a 100-word description or a paper prototype of a website that you would like your partner to create. Remember to use what you learned about communication and expressing yourself clearly when writing your description.
